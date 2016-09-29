@@ -1,0 +1,21 @@
+{
+  "name": "isipright",
+  "version": "1.0.0",
+  "description": "check ip is right",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kidbai/hosthandler.git"
+  },
+  "author": "Youngbye",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kidbai/hosthandler/issues"
+  },
+  "homepage": "https://github.com/kidbai/hosthandler#readme"
+}
